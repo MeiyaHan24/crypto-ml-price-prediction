@@ -131,4 +131,4 @@ crypto-ml-price-prediction/
 
 ## Author
 
-**Meiya Han** | ACC102 Mini Assignment | XJTLU 2024–25
+**Meiya Han** | ACC102 Mini Assignment | XJTLU 2025-2026

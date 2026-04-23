@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+model_results.json
+run_analysis.py
+reflection_report.md
+reflection_report.pdf
